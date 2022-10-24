@@ -1,0 +1,3 @@
+to make the resource of the model
+
+--> php artisan make:resource PostResource
